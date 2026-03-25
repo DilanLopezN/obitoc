@@ -1,0 +1,39 @@
+{
+  "targeting": [
+    {
+      "keepDistance": false,
+      "avoidAttacks": false,
+      "chase": false,
+      "priority": 1,
+      "regex": "^kenshi$",
+      "lureMax": 3,
+      "diamondArrows": false,
+      "name": "KENSHI",
+      "anchor": false,
+      "lureMin": 1,
+      "dynamicLure": false,
+      "lureDelay": 250,
+      "dontLoot": false,
+      "lure": false,
+      "lureCavebot": false,
+      "faceMonster": false,
+      "lureCount": 1,
+      "keepDistanceRange": 1,
+      "anchorRange": 3,
+      "dynamicLureDelay": false,
+      "danger": 1,
+      "maxDistance": 10
+    }
+  ],
+  "looting": {
+    "maxDanger": 10,
+    "minCapacity": 100,
+    "containers": [
+
+    ],
+    "items": [
+
+    ],
+    "everyItem": false
+  }
+}

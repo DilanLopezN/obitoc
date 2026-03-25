@@ -1,0 +1,129 @@
+{
+  "targeting": [
+    {
+      "priority": 1,
+      "keepDistance": false,
+      "avoidAttacks": false,
+      "chase": false,
+      "lureMin": 1,
+      "dynamicLure": false,
+      "lureDelay": 250,
+      "lureCavebot": false,
+      "lure": false,
+      "anchor": false,
+      "dontLoot": true,
+      "keepDistanceRange": 1,
+      "name": "Akaname",
+      "dynamicLureDelay": false,
+      "diamondArrows": false,
+      "lureCount": 1,
+      "regex": "^akaname$",
+      "danger": 1,
+      "maxDistance": 10,
+      "faceMonster": false,
+      "anchorRange": 3,
+      "lureMax": 3
+    },
+    {
+      "priority": 6,
+      "keepDistance": false,
+      "avoidAttacks": false,
+      "chase": false,
+      "lureMin": 1,
+      "dynamicLure": false,
+      "lureDelay": 250,
+      "lureCavebot": false,
+      "lure": false,
+      "anchor": false,
+      "dontLoot": true,
+      "keepDistanceRange": 1,
+      "name": "Akamanto",
+      "dynamicLureDelay": false,
+      "diamondArrows": false,
+      "lureCount": 3,
+      "regex": "^akamanto$",
+      "danger": 1,
+      "maxDistance": 10,
+      "faceMonster": false,
+      "anchorRange": 3,
+      "lureMax": 3
+    },
+    {
+      "priority": 1,
+      "keepDistance": false,
+      "avoidAttacks": false,
+      "chase": true,
+      "lureMin": 1,
+      "dynamicLure": false,
+      "lureDelay": 250,
+      "lureCavebot": false,
+      "lure": false,
+      "anchor": false,
+      "dontLoot": true,
+      "keepDistanceRange": 1,
+      "name": "senchou",
+      "dynamicLureDelay": false,
+      "diamondArrows": false,
+      "lureCount": 1,
+      "regex": "^senchou$",
+      "danger": 1,
+      "maxDistance": 10,
+      "faceMonster": false,
+      "anchorRange": 3,
+      "lureMax": 3
+    },
+    {
+      "priority": 1,
+      "keepDistance": false,
+      "avoidAttacks": false,
+      "chase": false,
+      "lureMin": 1,
+      "dynamicLure": false,
+      "lureDelay": 250,
+      "lureCavebot": false,
+      "lure": false,
+      "anchor": false,
+      "dontLoot": false,
+      "keepDistanceRange": 1,
+      "name": "Ibuki",
+      "dynamicLureDelay": false,
+      "diamondArrows": false,
+      "regex": "^ibuki$",
+      "faceMonster": false,
+      "danger": 1,
+      "maxDistance": 10,
+      "lureCount": 1,
+      "anchorRange": 3,
+      "lureMax": 3
+    }
+  ],
+  "looting": {
+    "maxDanger": 10,
+    "items": [
+      {
+        "id": 5897,
+        "count": 100
+      },
+      {
+        "id": 5879,
+        "count": 30
+      }
+    ],
+    "everyItem": false,
+    "minCapacity": 100,
+    "containers": [
+      {
+        "id": 10825,
+        "count": 1
+      },
+      {
+        "id": 2866,
+        "count": 1
+      },
+      {
+        "id": 10826,
+        "count": 1
+      }
+    ]
+  }
+}

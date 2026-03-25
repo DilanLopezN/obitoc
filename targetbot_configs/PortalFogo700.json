@@ -1,0 +1,101 @@
+{
+  "looting": {
+    "maxDanger": 10,
+    "minCapacity": 100,
+    "items": [
+      {
+        "count": 100,
+        "id": 3043
+      },
+      {
+        "count": 0,
+        "id": 4839
+      }
+    ],
+    "containers": [
+      {
+        "count": 1,
+        "id": 10825
+      },
+      {
+        "count": 1,
+        "id": 2866
+      }
+    ],
+    "everyItem": false
+  },
+  "targeting": [
+    {
+      "chase": false,
+      "lure": false,
+      "lureMin": 1,
+      "dontLoot": true,
+      "lureDelay": 250,
+      "lureCavebot": false,
+      "lureCount": 1,
+      "dynamicLureDelay": false,
+      "anchorRange": 3,
+      "keepDistanceRange": 1,
+      "name": "hogosha",
+      "faceMonster": false,
+      "regex": "^hogosha$",
+      "diamondArrows": false,
+      "danger": 1,
+      "maxDistance": 10,
+      "dynamicLure": false,
+      "anchor": false,
+      "lureMax": 3,
+      "priority": 1,
+      "keepDistance": false,
+      "avoidAttacks": false
+    },
+    {
+      "chase": false,
+      "lure": false,
+      "lureMin": 1,
+      "dontLoot": true,
+      "lureDelay": 250,
+      "lureCavebot": false,
+      "lureCount": 1,
+      "dynamicLureDelay": false,
+      "anchorRange": 3,
+      "keepDistanceRange": 1,
+      "name": "yurei sand",
+      "faceMonster": false,
+      "regex": "^yurei sand$",
+      "diamondArrows": false,
+      "danger": 1,
+      "maxDistance": 10,
+      "dynamicLure": false,
+      "anchor": false,
+      "lureMax": 3,
+      "priority": 1,
+      "keepDistance": false,
+      "avoidAttacks": false
+    },
+    {
+      "chase": false,
+      "lure": false,
+      "lureMin": 1,
+      "dontLoot": true,
+      "lureDelay": 250,
+      "lureCavebot": false,
+      "lureCount": 1,
+      "dynamicLureDelay": false,
+      "anchorRange": 3,
+      "keepDistanceRange": 1,
+      "name": "oukami",
+      "faceMonster": false,
+      "regex": "^oukami$",
+      "diamondArrows": false,
+      "danger": 1,
+      "maxDistance": 10,
+      "dynamicLure": false,
+      "anchor": false,
+      "lureMax": 3,
+      "priority": 1,
+      "keepDistance": false,
+      "avoidAttacks": false
+    }
+  ]
+}

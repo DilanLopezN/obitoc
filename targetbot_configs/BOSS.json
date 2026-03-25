@@ -1,0 +1,63 @@
+{
+  "targeting": [
+    {
+      "keepDistance": false,
+      "keepDistanceRange": 1,
+      "priority": 1,
+      "lure": false,
+      "dontLoot": false,
+      "faceMonster": false,
+      "regex": "^[event] deidara$",
+      "dynamicLureDelay": false,
+      "diamondArrows": false,
+      "name": "[Event] Deidara",
+      "chase": true,
+      "avoidAttacks": false,
+      "anchorRange": 3,
+      "maxDistance": 10,
+      "danger": 1,
+      "lureMin": 1,
+      "dynamicLure": false,
+      "lureDelay": 250,
+      "anchor": false,
+      "lureCavebot": false,
+      "lureMax": 3,
+      "lureCount": 1
+    },
+    {
+      "anchorRange": 3,
+      "keepDistanceRange": 1,
+      "priority": 1,
+      "lure": false,
+      "dontLoot": false,
+      "faceMonster": false,
+      "regex": "^araken$",
+      "dynamicLureDelay": false,
+      "diamondArrows": false,
+      "name": "Araken",
+      "chase": true,
+      "avoidAttacks": false,
+      "keepDistance": false,
+      "maxDistance": 10,
+      "danger": 1,
+      "lureMin": 1,
+      "dynamicLure": false,
+      "lureDelay": 250,
+      "anchor": false,
+      "lureCavebot": false,
+      "lureMax": 3,
+      "lureCount": 1
+    }
+  ],
+  "looting": {
+    "items": [
+
+    ],
+    "maxDanger": 10,
+    "containers": [
+
+    ],
+    "everyItem": false,
+    "minCapacity": 100
+  }
+}

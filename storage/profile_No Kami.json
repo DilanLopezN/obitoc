@@ -1,0 +1,250 @@
+{
+  "comboSpells": [
+    {
+      "spellCast": "katon bakufu ranbu",
+      "cooldown": 2000,
+      "widgetPos": {
+        "x": 0,
+        "y": 50
+      },
+      "index": 1,
+      "enableTimeSpell": true,
+      "distance": 7,
+      "orangeSpell": "katon bakufu ranbu",
+      "cooldownSpells": 713243,
+      "enabled": true,
+      "onScreen": "Bakufu"
+    },
+    {
+      "spellCast": "katon karyu endan",
+      "cooldown": 3000,
+      "widgetPos": {
+        "x": 0,
+        "y": 50
+      },
+      "index": 2,
+      "enableTimeSpell": true,
+      "distance": 6,
+      "orangeSpell": "katon karyu endan",
+      "cooldownSpells": 712360,
+      "enabled": true,
+      "onScreen": "karyu"
+    },
+    {
+      "spellCast": "gedou shinsei",
+      "cooldown": 4000,
+      "widgetPos": {
+        "x": 0,
+        "y": 50
+      },
+      "index": 3,
+      "enableTimeSpell": true,
+      "distance": 5,
+      "orangeSpell": "gedou shinsei",
+      "cooldownSpells": 713996,
+      "enabled": true,
+      "onScreen": "gedou"
+    },
+    {
+      "spellCast": "katon katohenke no jutsu",
+      "cooldown": 3000,
+      "widgetPos": {
+        "x": 0,
+        "y": 50
+      },
+      "index": 4,
+      "enableTimeSpell": true,
+      "distance": 6,
+      "orangeSpell": "katon katohenke no jutsu",
+      "cooldownSpells": 714869,
+      "enabled": true,
+      "onScreen": "katohenke"
+    },
+    {
+      "spellCast": "senka no en",
+      "cooldown": 2000,
+      "widgetPos": {
+        "x": 0,
+        "y": 50
+      },
+      "index": 5,
+      "enableTimeSpell": true,
+      "distance": 7,
+      "orangeSpell": "senka no en",
+      "cooldownSpells": 712641,
+      "enabled": true,
+      "onScreen": "senka"
+    },
+    {
+      "spellCast": "kamui",
+      "cooldown": 1000,
+      "widgetPos": {
+        "x": 0,
+        "y": 50
+      },
+      "index": 6,
+      "enableTimeSpell": true,
+      "distance": 6,
+      "orangeSpell": "kamui",
+      "cooldownSpells": 708502,
+      "enabled": true,
+      "onScreen": "Kamui"
+    },
+    {
+      "spellCast": "katon sohenka no jutsu",
+      "cooldown": 1000,
+      "onScreen": "katon sohenka no jutsu",
+      "index": 7,
+      "enableTimeSpell": true,
+      "distance": 5,
+      "orangeSpell": "katon sohenka no jutsu",
+      "enabled": true,
+      "widgetPos": {
+        "x": 0,
+        "y": 50
+      }
+    }
+  ],
+  "fugaSpells": [
+    {
+      "selfHealth": 40,
+      "totalCooldown": 1774408225,
+      "widgetPos": {
+        "x": 686,
+        "y": 441
+      },
+      "index": 1,
+      "enableTimeSpell": true,
+      "cooldownTotal": 45,
+      "orangeSpell": "kamui muzan",
+      "activeCooldown": 1774408185,
+      "spellCast": "kamui muzan",
+      "onScreen": "Muzan",
+      "enabled": true,
+      "cooldownActive": 5
+    },
+    {
+      "selfHealth": 35,
+      "cooldownActive": 3,
+      "index": 2,
+      "enableTimeSpell": true,
+      "orangeSpell": "kawarimi",
+      "cooldownTotal": 35,
+      "onScreen": "Kawa",
+      "enabled": true,
+      "widgetPos": {
+        "x": 685,
+        "y": 575
+      },
+      "spellCast": "kawarimi no jutsu"
+    },
+    {
+      "selfHealth": 35,
+      "totalCooldown": 1774391469,
+      "widgetPos": {
+        "x": 675,
+        "y": 505
+      },
+      "index": 3,
+      "enableTimeSpell": true,
+      "cooldownTotal": 60,
+      "orangeSpell": "izanagi",
+      "activeCooldown": 1774391419,
+      "spellCast": "izanagi",
+      "onScreen": "Izanagi",
+      "enabled": true,
+      "cooldownActive": 10
+    },
+    {
+      "selfHealth": 30,
+      "totalCooldown": 1774380382,
+      "widgetPos": {
+        "x": 0,
+        "y": 50
+      },
+      "index": 4,
+      "enableTimeSpell": false,
+      "cooldownTotal": 180,
+      "orangeSpell": "mode bijuu",
+      "activeCooldown": 1774380232,
+      "spellCast": "mode bijuu",
+      "onScreen": "Bijuu",
+      "enabled": true,
+      "cooldownActive": 30
+    }
+  ],
+  "keySpells": [
+    {
+      "spellCast": "mode bijuu",
+      "index": 1,
+      "enabled": true,
+      "keyPress": "4"
+    },
+    {
+      "spellCast": "dai kamui",
+      "index": 2,
+      "enabled": true,
+      "keyPress": "5"
+    },
+    {
+      "spellCast": "concentrate chakra feet",
+      "index": 3,
+      "enabled": true,
+      "keyPress": "X"
+    },
+    {
+      "spellCast": "kai",
+      "index": 4,
+      "enabled": true,
+      "keyPress": "C"
+    },
+    {
+      "spellCast": "kamui protect",
+      "index": 5,
+      "enabled": true,
+      "keyPress": "F6"
+    },
+    {
+      "spellCast": "kekkei genkai",
+      "index": 6,
+      "enabled": true,
+      "keyPress": "F5"
+    },
+    {
+      "spellCast": "kuchyose gedou mazou",
+      "index": 7,
+      "enabled": true,
+      "keyPress": "V"
+    },
+    {
+      "spellCast": "keiyaku fuin",
+      "index": 8,
+      "enabled": true,
+      "keyPress": "Plus"
+    },
+    {
+      "spellCast": "doton prision",
+      "index": 9,
+      "enabled": true,
+      "keyPress": "-"
+    },
+    {
+      "index": 10,
+      "spellCast": "kamui muzan",
+      "enabled": true,
+      "keyPress": "1"
+    },
+    {
+      "index": 11,
+      "spellCast": "kawarimi no jutsu",
+      "enabled": true,
+      "keyPress": "2"
+    },
+    {
+      "index": 12,
+      "spellCast": "izanagi",
+      "enabled": true,
+      "keyPress": "3"
+    }
+  ]
+}

@@ -1,0 +1,39 @@
+{
+  "targeting": [
+    {
+      "priority": 1,
+      "lureMin": 1,
+      "dynamicLure": false,
+      "maxDistance": 10,
+      "lureCavebot": false,
+      "anchor": false,
+      "keepDistance": false,
+      "lureMax": 3,
+      "chase": false,
+      "keepDistanceRange": 5,
+      "dontLoot": true,
+      "faceMonster": false,
+      "regex": "^wamu$",
+      "dynamicLureDelay": false,
+      "diamondArrows": false,
+      "lureDelay": 250,
+      "avoidAttacks": false,
+      "name": "wamu",
+      "lureCount": 1,
+      "anchorRange": 3,
+      "lure": false,
+      "danger": 1
+    }
+  ],
+  "looting": {
+    "maxDanger": 10,
+    "minCapacity": 100,
+    "items": [
+
+    ],
+    "everyItem": false,
+    "containers": [
+
+    ]
+  }
+}

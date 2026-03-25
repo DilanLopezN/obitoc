@@ -1,0 +1,121 @@
+{
+  "targeting": [
+    {
+      "lureCount": 1,
+      "lureMax": 3,
+      "anchorRange": 3,
+      "keepDistanceRange": 1,
+      "keepDistance": false,
+      "name": "Rounin waraji",
+      "chase": false,
+      "dynamicLureDelay": false,
+      "diamondArrows": false,
+      "anchor": false,
+      "dontLoot": false,
+      "regex": "^rounin waraji$",
+      "lure": false,
+      "priority": 1,
+      "faceMonster": false,
+      "lureCavebot": false,
+      "lureMin": 1,
+      "dynamicLure": false,
+      "lureDelay": 250,
+      "avoidAttacks": false,
+      "danger": 1,
+      "maxDistance": 7
+    },
+    {
+      "priority": 1,
+      "lureMax": 3,
+      "anchorRange": 3,
+      "keepDistanceRange": 1,
+      "keepDistance": false,
+      "name": "miratsu",
+      "chase": false,
+      "dynamicLureDelay": false,
+      "diamondArrows": false,
+      "anchor": false,
+      "lureCount": 1,
+      "regex": "^miratsu$",
+      "avoidAttacks": false,
+      "faceMonster": false,
+      "lure": false,
+      "danger": 1,
+      "lureMin": 1,
+      "dynamicLure": false,
+      "lureDelay": 250,
+      "dontLoot": true,
+      "lureCavebot": false,
+      "maxDistance": 10
+    },
+    {
+      "priority": 1,
+      "lureMax": 3,
+      "anchorRange": 3,
+      "keepDistanceRange": 1,
+      "keepDistance": false,
+      "name": "scorpion",
+      "chase": true,
+      "dynamicLureDelay": false,
+      "diamondArrows": false,
+      "anchor": false,
+      "lureCount": 1,
+      "regex": "^scorpion$",
+      "avoidAttacks": false,
+      "faceMonster": false,
+      "lure": false,
+      "danger": 1,
+      "lureMin": 1,
+      "dynamicLure": false,
+      "lureDelay": 250,
+      "dontLoot": true,
+      "lureCavebot": false,
+      "maxDistance": 10
+    },
+    {
+      "priority": 1,
+      "lureMax": 3,
+      "anchorRange": 3,
+      "keepDistanceRange": 1,
+      "keepDistance": false,
+      "name": "dokuhebi",
+      "chase": true,
+      "dynamicLureDelay": false,
+      "diamondArrows": false,
+      "anchor": false,
+      "lureCount": 1,
+      "regex": "^dokuhebi$",
+      "avoidAttacks": false,
+      "faceMonster": false,
+      "lure": false,
+      "danger": 1,
+      "lureMin": 1,
+      "dynamicLure": false,
+      "lureDelay": 250,
+      "dontLoot": true,
+      "lureCavebot": false,
+      "maxDistance": 10
+    }
+  ],
+  "looting": {
+    "maxDanger": 10,
+    "minCapacity": 100,
+    "containers": [
+      {
+        "count": 1,
+        "id": 10825
+      },
+      {
+        "count": 1,
+        "id": 2866
+      }
+    ],
+    "everyItem": false,
+    "items": [
+      {
+        "count": 100,
+        "id": 3043
+      }
+    ]
+  }
+}

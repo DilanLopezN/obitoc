@@ -1,0 +1,29 @@
+{
+  "spells": {
+    "dai kamui": {
+      "enabled": true,
+      "activeCd": 47193059,
+      "activeTime": 5000,
+      "onScreen": "DAI",
+      "index": 1,
+      "y": 396,
+      "x": 1137,
+      "spell": "dai kamui",
+      "totalTime": 45000,
+      "totalCd": 47233059
+    },
+    "keiyaku fuin": {
+      "enabled": true,
+      "activeCd": 47280734,
+      "activeTime": 2000,
+      "onScreen": "TRAP",
+      "index": 1,
+      "y": 462,
+      "x": 1135,
+      "spell": "keiyaku fuin",
+      "totalTime": 40000,
+      "totalCd": 47318734
+    }
+  },
+  "enabled": true
+}

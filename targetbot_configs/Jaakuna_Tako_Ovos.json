@@ -1,0 +1,97 @@
+{
+  "looting": {
+    "maxDanger": 10,
+    "minCapacity": 100,
+    "containers": [
+      {
+        "count": 1,
+        "id": 11607
+      },
+      {
+        "count": 1,
+        "id": 2866
+      }
+    ],
+    "everyItem": false,
+    "items": [
+      {
+        "count": 100,
+        "id": 4839
+      }
+    ]
+  },
+  "targeting": [
+    {
+      "keepDistance": false,
+      "avoidAttacks": false,
+      "chase": false,
+      "regex": "^jaakuna tako$",
+      "lure": false,
+      "priority": 10,
+      "lureCount": 1,
+      "lureMax": 5,
+      "anchorRange": 3,
+      "dontLoot": true,
+      "faceMonster": false,
+      "name": "jaakuna tako",
+      "dynamicLureDelay": false,
+      "diamondArrows": false,
+      "lureCavebot": false,
+      "keepDistanceRange": 1,
+      "lureDelay": 250,
+      "dynamicLure": false,
+      "lureMin": 4,
+      "danger": 10,
+      "maxDistance": 10,
+      "anchor": false
+    },
+    {
+      "keepDistance": false,
+      "lureMin": 1,
+      "chase": false,
+      "lureDelay": 250,
+      "lure": false,
+      "lureCavebot": false,
+      "lureCount": 1,
+      "lureMax": 3,
+      "anchorRange": 3,
+      "dontLoot": true,
+      "faceMonster": false,
+      "name": "bikkubado",
+      "dynamicLureDelay": false,
+      "diamondArrows": false,
+      "regex": "^bikkubado$",
+      "dynamicLure": false,
+      "avoidAttacks": false,
+      "priority": 1,
+      "keepDistanceRange": 1,
+      "danger": 1,
+      "maxDistance": 10,
+      "anchor": false
+    },
+    {
+      "keepDistance": false,
+      "avoidAttacks": false,
+      "chase": false,
+      "regex": "^ribaiasan$",
+      "lure": false,
+      "priority": 1,
+      "lureCount": 1,
+      "lureMax": 3,
+      "anchorRange": 3,
+      "dontLoot": false,
+      "faceMonster": false,
+      "name": "ribaiasan",
+      "dynamicLureDelay": false,
+      "diamondArrows": false,
+      "lureCavebot": false,
+      "keepDistanceRange": 1,
+      "lureDelay": 250,
+      "dynamicLure": false,
+      "lureMin": 1,
+      "danger": 1,
+      "maxDistance": 10,
+      "anchor": false
+    }
+  ]
+}
